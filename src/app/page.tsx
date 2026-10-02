@@ -657,7 +657,7 @@ export default function Home() {
           {/* BOTÕES */}
           <div className="mt-12 flex flex-col items-center justify-center gap-4 sm:flex-row">
             <a
-              href="https://wa.me/55SEUNUMERO"
+              href="https://wa.me/5511966728860"
               target="_blank"
               rel="noopener noreferrer"
               className="group flex min-w-[230px] items-center justify-between border border-white bg-white px-7 py-5 text-xs font-bold tracking-[0.3em] text-black transition duration-300 hover:bg-transparent hover:text-white"
@@ -670,7 +670,7 @@ export default function Home() {
             </a>
 
             <a
-              href="https://instagram.com/SEUINSTAGRAM"
+              href="https://www.instagram.com/nyvex_vx?stkn=NWk1MTc0eGM5bDNq"
               target="_blank"
               rel="noopener noreferrer"
               className="group flex min-w-[230px] items-center justify-between border border-white/20 px-7 py-5 text-xs font-bold tracking-[0.3em] text-white transition duration-300 hover:border-white hover:bg-white hover:text-black"
